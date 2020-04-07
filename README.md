@@ -1,1 +1,1 @@
-# git_test
+This is Cassidy's first git project!
